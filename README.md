@@ -47,8 +47,9 @@ This project contains SQL queries for analyzing pizza sales data using PostgreSQ
 - SQL Joins
 - Grouping and Aggregation
 - Window Functions: `RANK`, `SUM OVER`, `LAG`, `LEAD`
-- Business analytics and KPI reporting
+- Business analytics  problems
+
 
 ---
 
-> Created by [Bandari Ritesh](https://www.linkedin.com/in/bandari-ritesh) – Aspiring Data Analyst
+> Created by [Bandari Ritesh](https://www.linkedin.com/in/bandari-ritesh) –  Data Analyst
